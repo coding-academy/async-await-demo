@@ -1,0 +1,8 @@
+{
+  "name": "async-await-demos",
+  "version": "1.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
