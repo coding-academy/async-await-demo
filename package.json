@@ -6,11 +6,11 @@
     "node-fetch": "^1.7.3"
   },
   "scripts" : {
-    "demo1" : "node demo1/async.js",
-    "demo2" : "node demo2/async.js",
-    "demo3" : "node demo3/async.js",
-    "demo4" : "node demo4/async.js",
-    "demo5" : "node demo5/async.js",
-    "demo6" : "node demo6/async.js"
+    "demo1" : "node demos/demo1.js",
+    "demo2" : "node demos/demo2.js",
+    "demo3" : "node demos/demo3.js",
+    "demo4" : "node demos/demo4.js",
+    "demo5" : "node demos/demo5.js",
+    "demo6" : "node demos/demo6.js"
   }
 }
