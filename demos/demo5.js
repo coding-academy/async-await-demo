@@ -1,7 +1,7 @@
 
 // Await Multiple Promises Sequentially or Concurrently
 
-const fetch = require("node-fetch");
+const fetch = require('node-fetch');
 
 async function fetchFromGitHub(endpoint) {
     const url = `https://api.github.com${endpoint}`;
@@ -20,4 +20,4 @@ async function showUserAndRepos(handle) {
     console.log(`${repos.length} repos`);
 }
 
-showUserAndRepos("vyaron");
+showUserAndRepos('vyaron');

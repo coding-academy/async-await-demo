@@ -4,9 +4,9 @@ Async/await is here and powerful, getting comfortable is advised
 
 ## Demos
 
-1. [Write an Async Function with async/await]
+1. [Async Function with async/await]
 
-2. [Call an Asynchronous Function in a Promise Chain]
+2. [Asynchronous Function in a Promise Chain]
 
 3. [Convert Any Function into an Asynchronous Function]
 

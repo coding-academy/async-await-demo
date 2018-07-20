@@ -1,7 +1,8 @@
-
 // Convert Any Function into an Asynchronous Function
 
-const fetch = require("node-fetch");
+
+const fetch = require('node-fetch');
+
 
 class GitHubApiClient {
     async fetchUser(handle) {
@@ -13,7 +14,7 @@ class GitHubApiClient {
 
 (async () => {
     const client = new GitHubApiClient();
-    const user = await client.fetchUser("vyaron");
+    const user = await client.fetchUser('vyaron');
     console.log(user.name);
     console.log(user.location);
 })();
