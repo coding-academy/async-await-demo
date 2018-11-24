@@ -20,6 +20,7 @@ showGitHubUser('vyaron');
 
 
 
+
 // async function showGitHubUser(userName) {
 //     const url = `https://api.github.com/users/${userName}`;
 //     const response = await fetch(url);
